@@ -9,7 +9,7 @@
 body {
     width: 375px;
     margin: auto;
-    background-color: hsl(220, 15%, 55%);
+    background-color: #d5e1ef;
     display: flex;
     flex-direction: column;
     justify-content: center;
